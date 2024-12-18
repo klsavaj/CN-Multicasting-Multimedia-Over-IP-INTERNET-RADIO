@@ -11,7 +11,6 @@ This project implements an Internet Radio system that streams multimedia content
 - [Installation](#installation)
 - [How to Run the Project](#how-to-run-the-project)
 - [Important Implementations](#important-implementations)
-- [References](#references)
 - [License](#license)
 
 ## Project Overview
@@ -93,10 +92,6 @@ The Internet Radio system is designed to simulate real-life radio broadcasting o
 
 - **Socket Programming**: Utilizes UDP sockets for multicast streaming and TCP sockets for control messages between clients and the server.
 
-## References
-
-- [Internet Radio Multicasting Multimedia over IP](https://github.com/YHZ-EPIC/Computer_Networks_Project)
-- [Internet-Radio-Multicasting-multimedia-over-IP](https://github.com/rajvi-patel-22/Internet-Radio-Multicasting-multimedia-over-IP)
 
 ## License
 
