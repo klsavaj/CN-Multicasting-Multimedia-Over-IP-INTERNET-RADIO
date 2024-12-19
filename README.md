@@ -42,7 +42,7 @@ The Internet Radio system is designed to simulate real-life radio broadcasting o
 
    ```bash
    git clone https://github.com/klsavaj/CN-Multicasting-Multimedia-Over-IP-INTERNET-RADIO-.git
-   cd CN-Multicasting-Multimedia-Over-IP-INTERNET-RADIO-
+   cd CN-Multicasting-Multimedia-Over-IP-INTERNET-RADIO
    ```
 
 2. **Set Up the Environment**:
